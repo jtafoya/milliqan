@@ -1,3 +1,7 @@
 Expects to be placed in /home/milliqan/LV_Monitoring
 
 Needs directory /home/milliqan/LV_Monitoring/LV_log to dump output
+
+
+Runs with the crontab
+*/1 * * * * . /home/milliqan/LV_Monitoring/LV_Monitor.sh
